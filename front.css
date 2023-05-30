@@ -103,6 +103,20 @@
   
   .slide{
       margin-bottom: 10px;
+     
+     
+  }
+  .home-text
+  {
+position: relative;
+top: 100px;
+
+  }
+  .home-text img 
+  {
+    position: relative;
+    left: 930px;
+   bottom: 200px;
   }
   .one{
       display: inline-block;
